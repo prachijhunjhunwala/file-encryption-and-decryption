@@ -186,6 +186,19 @@ This system represents a major security upgrade over previous iterations that re
 7.  **Run an Integrity Audit:** Click **Verify Hash** or **Verify File Integrity** to execute constant-time comparisons of the stored vs. current hashes, confirming if any unauthorized tampering occurred.
 8.  **Analyze Metrics:** Click **View Metrics** to see the structured on-screen latency report. Click **Export Metrics** to output the performance history as a JSON database in `metrics/metrics_report.json`.
 9.  **Quick Folder Access:** Use the shortcut utility buttons (*Open Encrypted Folder*, *Open Decrypted Folder*, *Open Metrics Folder*) to open the output directories directly in your system's file explorer.
+## 🎓 Academic Metadata & Attributions
 
+*   **Institution:** Techno International New Town (Formerly Techno India College of Technology)
+*   **Affiliation:** Maulana Abul Kalam Azad University of Technology, West Bengal (MAKAUT)
+*   **Department:** Department of Artificial Intelligence & Machine Learning
+*   **Academic Course:** Project II Report (PROJAIML881)
+*   **Academic Batch:** 2022-2026 (Semester 8 - EVEN)
+*   **Project Mentor:** Prof. Soumen Bajpayee
+
+### Project Team Members:
+*   **Student 1:** Vishal Kumar (Roll No: 18730623070)
+*   **Student 2:** Prachi Jhunjhunwala (Roll No: 18730623067)
+*   **Student 3:** Tuhin koley (Roll No: 18730623063)
+*   **Student 4:** Shanidho nagak (Roll No: [Roll No])
 
 
